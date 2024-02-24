@@ -1,0 +1,276 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/events.csproj": {}
+  },
+  "projects": {
+    "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/events.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/events.csproj",
+        "projectName": "events",
+        "projectPath": "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/events.csproj",
+        "packagesPath": "/Users/zekiboy/.nuget/packages/",
+        "outputPath": "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zekiboy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventsWeb.business/eventsWeb.business.csproj": {
+                "projectPath": "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventsWeb.business/eventsWeb.business.csproj"
+              },
+              "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventsWeb.entity/eventsWeb.entity.csproj": {
+                "projectPath": "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventsWeb.entity/eventsWeb.entity.csproj"
+              },
+              "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventWeb.data/eventWeb.data.csproj": {
+                "projectPath": "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventWeb.data/eventWeb.data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkcore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventsWeb.business/eventsWeb.business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventsWeb.business/eventsWeb.business.csproj",
+        "projectName": "eventsWeb.business",
+        "projectPath": "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventsWeb.business/eventsWeb.business.csproj",
+        "packagesPath": "/Users/zekiboy/.nuget/packages/",
+        "outputPath": "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventsWeb.business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zekiboy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventsWeb.entity/eventsWeb.entity.csproj": {
+                "projectPath": "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventsWeb.entity/eventsWeb.entity.csproj"
+              },
+              "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventWeb.data/eventWeb.data.csproj": {
+                "projectPath": "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventWeb.data/eventWeb.data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventsWeb.entity/eventsWeb.entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventsWeb.entity/eventsWeb.entity.csproj",
+        "projectName": "eventsWeb.entity",
+        "projectPath": "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventsWeb.entity/eventsWeb.entity.csproj",
+        "packagesPath": "/Users/zekiboy/.nuget/packages/",
+        "outputPath": "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventsWeb.entity/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zekiboy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventWeb.data/eventWeb.data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventWeb.data/eventWeb.data.csproj",
+        "projectName": "eventWeb.data",
+        "projectPath": "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventWeb.data/eventWeb.data.csproj",
+        "packagesPath": "/Users/zekiboy/.nuget/packages/",
+        "outputPath": "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventWeb.data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zekiboy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventsWeb.entity/eventsWeb.entity.csproj": {
+                "projectPath": "/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/eventsWeb.entity/eventsWeb.entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkcore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,157 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = events
+build_property.RootNamespace = events
+build_property.ProjectDir = /Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9BY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Db25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Gb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Admin/CategoryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQ2F0ZWdvcnlMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Admin/CreateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Admin/CreateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQ3JlYXRlUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Admin/EditCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vRWRpdENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Admin/EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vRWRpdFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Admin/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vUHJvZHVjdExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Admin/RoleCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vUm9sZUNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Admin/RoleEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vUm9sZUVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Admin/RoleList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vUm9sZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Admin/UserCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vVXNlckNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Admin/UserEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vVXNlckVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Admin/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vVXNlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Events/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXZlbnRzL0RldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Events/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXZlbnRzL0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Shared/Components/Categories/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQ2F0ZWdvcmllcy9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Shared/_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19mb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Shared/_header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19oZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Shared/_layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19sYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Shared/_navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19uYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Shared/_productCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19wcm9kdWN0Q2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Shared/_ResultMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19SZXN1bHRNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Shared/_smallCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19zbWFsbENhcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/Shared/_smallCard2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19zbWFsbENhcmQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zekiboy/Library/CloudStorage/GoogleDrive-zekiiboy@gmail.com/Drive'ım/MyGithub/version/eventsWeb/events/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
